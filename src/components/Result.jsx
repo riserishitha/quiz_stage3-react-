@@ -14,7 +14,7 @@ function Results(){
                 <p>Number of wrong answers  <span>{propsValue.failed}</span></p>
         </div>
         <div className="movebtn">
-            <Link to="/home">
+            <Link to="/Quizpage>
             <button>Play Again</button>
             </Link>
             <Link to="/">
